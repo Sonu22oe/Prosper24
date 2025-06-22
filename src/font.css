@@ -1,0 +1,39 @@
+/* Fantasy (system fonts, no import needed) */
+/* Fallbacks added */
+
+/* ========== FONT CLASSES ========== */
+
+/* Monospace */
+.fira-code { font-family: 'Fira Code', monospace; }
+.jetbrains-mono { font-family: 'JetBrains Mono', monospace; }
+.courier-prime { font-family: 'Courier Prime', monospace; }
+.roboto-mono { font-family: 'Roboto Mono', monospace; }
+.source-code-pro { font-family: 'Source Code Pro', monospace; }
+
+/* Sans-serif */
+.inter { font-family: 'Inter', sans-serif; }
+.open-sans { font-family: 'Open Sans', sans-serif; }
+.poppins { font-family: 'Poppins', sans-serif; }
+.montserrat { font-family: 'Montserrat', sans-serif; }
+.roboto { font-family: 'Roboto', sans-serif; }
+
+/* Serif */
+.lora { font-family: 'Lora', serif; }
+.playfair { font-family: 'Playfair Display', serif; }
+.eb-garamond { font-family: 'EB Garamond', serif; }
+.libre-baskerville { font-family: 'Libre Baskerville', serif; }
+.roboto-slab { font-family: 'Roboto Slab', serif; }
+
+/* Cursive */
+.pacifico { font-family: 'Pacifico', cursive; }
+.dancing-script { font-family: 'Dancing Script', cursive; }
+.satisfy { font-family: 'Satisfy', cursive; }
+.great-vibes { font-family: 'Great Vibes', cursive; }
+.courgette { font-family: 'Courgette', cursive; }
+
+/* Fantasy */
+.impact { font-family: Impact, fantasy; }
+.papyrus { font-family: Papyrus, fantasy; }
+.copperplate { font-family: Copperplate, fantasy; }
+.jokerman { font-family: Jokerman, fantasy; }
+.comic-sans { font-family: "Comic Sans MS", cursive, fantasy; }
