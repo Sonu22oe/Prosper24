@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App bg-white">
       <HelmetProvider>
-      <Router>
+      <Router basename="/Prosper-Tech">
         <Navbar/>
           <Routes>
             <Route exact path="/" element={<Home />} />
