@@ -1,19 +1,31 @@
 import React from 'react';
+import Clients from './Clients.jpg';
+import Clients1 from './Clients1.jpg';
+import Clients2 from './Clients2.jpg';
+import Clients3 from './Clients3.jpg';
+import Clients4 from './Clients4.jpg';
+import Clients5 from './Clients5.jpg';
+import Clients6 from './Clients6.jpg';
+import Clients7 from './Clients7.jpg';
+import Clients8 from './Clients8.jpg';
+import Clients9 from './Clients9.jpg';
+import Clients10 from './Clients10.jpg';
 
-const Clients = () => {
-  const clients = [
-    '/clients/Clients.jpg', 
-    '/clients/Clients1.jpg', 
-    '/clients/Clients2.jpg',
-    '/clients/Clients3.jpg',
-    '/clients/Clients4.jpg',
-    '/clients/Clients5.jpg',
-    '/clients/Clients6.jpg',
-    '/clients/Clients7.jpg',
-    '/clients/Clients8.jpg',
-    '/clients/Clients9.jpg', 
-    '/clients/Clients10.jpg'
-  ];
+
+const Clients = () =>{
+const clients = [
+  Clients,
+  Clients1,
+  Clients2,
+  Clients3,
+  Clients4,
+  Clients5,
+  Clients6,
+  Clients7,
+  Clients8,
+  Clients9,
+  Clients10
+];
 
   return (
 
