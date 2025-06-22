@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Clients = () => {
@@ -17,11 +16,11 @@ const Clients = () => {
   ];
 
   return (
-    
+
     <div className="bg-slate-700/90 py-20">
       <div className="container mx-auto">
         <h2 className="text-[3em]  text-center text-white poppins lora leading-tight font-extrabold">Our Clients</h2>
-        <p class="text-sm text-white/80 md:text-3xl  mx-5 text-center mt-5 mb-25 leading-relaxed">
+        <p className="text-sm text-white/80 md:text-3xl  mx-5 text-center mt-5 mb-25 leading-relaxed">
   We’re honored to collaborate with an incredible group of clients who inspire us to deliver excellence every day.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5  xl:gap-x-0 lg:gap-y-2 place-items-center my-10 px-5 lg:px-[4%] xl:px-[10%] leading-tight">
